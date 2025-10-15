@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="120" alt="Codexya SoftHouse">
+  <img src="logo.png" width="120" alt="Codexya SoftHouse">
 </p>
 
 <h1 align="center">Codexya SoftHouse</h1>
